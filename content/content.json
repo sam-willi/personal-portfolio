@@ -1,0 +1,953 @@
+{
+  "site": "https://sam-willi.studio",
+  "name": "Sam Williamson",
+  "headline": "Building tech that helps people learn.",
+  "intro": "I built a Mandarin learning website that's now part of my school's curriculum and ran a STEM camp for three years. The rest of my work, like the robots, prints, and repairs, is mostly me learning by building things.",
+  "focus": [
+    "Educational technology",
+    "Product design",
+    "Physical builds",
+    "Robotics",
+    "Fixing things"
+  ],
+  "school": "USC Iovine + Young Academy, Arts, Technology + the Business of Innovation, Class of 2030",
+  "location": "Los Altos, CA → Los Angeles, CA",
+  "status": "Open to internships",
+  "contact": {
+    "email": "samanthajwilliamson@gmail.com",
+    "instagram": "https://www.instagram.com/sam.willii/",
+    "linkedin": "https://www.linkedin.com/in/sam-williamson-101650281/"
+  },
+  "interests": [
+    "INDUSTRIAL DESIGN",
+    "AUTOMOTIVE",
+    "PHYSICAL PRODUCTS",
+    "ROBOTICS",
+    "EMERGING TECH",
+    "AI",
+    "ENTREPRENEURSHIP",
+    "HUMAN BEHAVIOR",
+    "INTERFACES",
+    "EVERYDAY THINGS"
+  ],
+  "about": {
+    "bio": [
+      "Hi! I'm Samantha Williamson, Sam for short. I grew up in Los Altos, in the Bay Area, and I study Arts, Technology and the Business of Innovation at USC's Iovine and Young Academy.",
+      "I am passionate about innovative ideas, hands on work, and developing meaningful connections with people!"
+    ],
+    "facts": [
+      "Helvetica is my favorite font.",
+      "The lathe is my favorite machine to use.",
+      "I collect street signs.",
+      "Stars are my favorite shape.",
+      "I adopted a possum named Fred (he was set free).",
+      "I love 70s music.",
+      "Geography is cool and I am very good at GeoGuessr.",
+      "I have a dog named Wrigley.",
+      "我说一点儿中文。"
+    ]
+  },
+  "projects": [
+    {
+      "num": "001",
+      "id": "p5-frc-contributions",
+      "title": "FRC Contributions",
+      "tags": "ROBOTICS / LEADERSHIP / MANUFACTURING",
+      "year": "2025",
+      "summary": "As president, I led a 120+ person team, one of the top 20 FIRST Robotics teams in the world. I ran a lot of projects in my time there; here are a few of my favorites.",
+      "thumbnail": "images/_thumbnails/p5-frc-contributions.jpg",
+      "video": null,
+      "links": [
+        {
+          "label": "Robot reveal videos 2022 to 2026 (YouTube playlist)",
+          "url": "https://youtube.com/playlist?list=PLk1Mm-3aieXVQGnepvwTAeBTksZ_AQ3C0"
+        },
+        {
+          "label": "Week Zero coverage, Mountain View Voice",
+          "url": "https://www.mv-voice.com/education/2026/03/02/vacant-mountain-view-kohls-turned-into-temporary-robotics-hub/"
+        }
+      ],
+      "images": [
+        "images/p5-frc-contributions/WORLDS_TEAM.jpg",
+        "images/p5-frc-contributions/FIELD_MIC.jpg",
+        "images/p5-frc-contributions/PICKLIST_DATA.jpg",
+        "images/p5-frc-contributions/ASSY_V1.jpg",
+        "images/p5-frc-contributions/ASSY_V2.jpg",
+        "images/p5-frc-contributions/ASSY_FINAL.jpg",
+        "images/p5-frc-contributions/ROUTER_SHOPSABRE.jpg",
+        "images/p5-frc-contributions/INTAKE_PROTO.jpg",
+        "images/p5-frc-contributions/LAYOUT_BENCH.jpg",
+        "images/p5-frc-contributions/LEGACY_ROBOTS.jpg",
+        "images/p5-frc-contributions/FLOOR_DEBUG.jpg",
+        "images/p5-frc-contributions/WEEK_ZERO_FIELD.jpg",
+        "images/p5-frc-contributions/BANNERS.jpg",
+        "images/p5-frc-contributions/robots/R_01_2026.jpg",
+        "images/p5-frc-contributions/robots/R_02_2025.jpg",
+        "images/p5-frc-contributions/robots/R_03_2024.jpg",
+        "images/p5-frc-contributions/robots/R_04_2023.jpg",
+        "images/p5-frc-contributions/robots/R_05_2022.jpg"
+      ]
+    },
+    {
+      "num": "002",
+      "id": "p1-mandarin-learning-website",
+      "title": "Mandarin Learning Website",
+      "tags": "EDTECH / PRODUCT / UI",
+      "year": "2025",
+      "summary": "I took four years of Mandarin class. I could read and write almost fluently but I still couldn't follow a conversation.",
+      "thumbnail": "https://i.ytimg.com/vi/mZ0d6qkYpVg/maxresdefault.jpg",
+      "video": {
+        "title": "Mandarin learning website walkthrough",
+        "url": "https://www.youtube.com/watch?v=mZ0d6qkYpVg"
+      },
+      "links": [],
+      "images": [
+        "images/p1-mandarin-learning-website/VIDEO_POSTER.jpg"
+      ]
+    },
+    {
+      "num": "003",
+      "id": "p4-spartan-robotics-camp",
+      "title": "Spartan Robotics Camp",
+      "tags": "EDUCATION / BUSINESS / LEADERSHIP",
+      "year": "2024",
+      "summary": "A one-week LEGO SPIKE Prime camp for grades 3–8, written as a business plan and pitched to a sports camp that had never taught STEM.",
+      "thumbnail": "images/_thumbnails/p4-spartan-robotics-camp.jpg",
+      "video": null,
+      "links": [
+        {
+          "label": "Business plan + results (PDF, not in the bundle)",
+          "url": "uploads/camp-plan.pdf"
+        }
+      ],
+      "images": [
+        "images/p4-spartan-robotics-camp/CAMP_HERO.jpg",
+        "images/p4-spartan-robotics-camp/CAMP_FLYERS.jpg",
+        "images/p4-spartan-robotics-camp/CAMP_001.jpg",
+        "images/p4-spartan-robotics-camp/CAMP_002.jpg",
+        "images/p4-spartan-robotics-camp/CAMP_003.jpg",
+        "images/p4-spartan-robotics-camp/CAMP_004.jpg",
+        "images/p4-spartan-robotics-camp/CAMP_005.jpg"
+      ]
+    },
+    {
+      "num": "004",
+      "id": "p8-festival-of-lights-floats",
+      "title": "Festival of Lights Floats",
+      "tags": "FABRICATION / SOUND / LIGHTING",
+      "year": "2026",
+      "summary": "I work for the City of Los Altos on the floats for the Festival of Lights parade. I build them, design them, and run the sound and lighting on them. It is the parade I grew up watching in my own hometown.",
+      "thumbnail": "images/_thumbnails/p8-festival-of-lights-floats.jpg",
+      "video": null,
+      "links": [],
+      "images": [
+        "images/p8-festival-of-lights-floats/FOL_HERO.jpg",
+        "images/p8-festival-of-lights-floats/FOL_TRAIN.jpg",
+        "images/p8-festival-of-lights-floats/FOL_CAROUSEL.jpg",
+        "images/p8-festival-of-lights-floats/FOL_WHEEL.jpg",
+        "images/p8-festival-of-lights-floats/FOL_TREE_NIGHT.jpg",
+        "images/p8-festival-of-lights-floats/FOL_TREE_DAY.jpg",
+        "images/p8-festival-of-lights-floats/FOL_ANIMATRONIC.jpg",
+        "images/p8-festival-of-lights-floats/FOL_SHRIEKERS.jpg"
+      ]
+    },
+    {
+      "num": "005",
+      "id": "p9-foosball-table",
+      "title": "Foosball Table",
+      "tags": "WOODWORKING / CNC / ARDUINO",
+      "year": "2024",
+      "summary": "A six-person engineering capstone at Mountain View High School. We built a full-size foosball table out of plywood, 3D printed the players, and wired an Arduino scoreboard into the cabinet. It lives in the lobby of the Student Services building.",
+      "thumbnail": "images/_thumbnails/p9-foosball-table.jpg",
+      "video": null,
+      "links": [],
+      "images": [
+        "images/p9-foosball-table/FOOS_HERO.jpg",
+        "images/p9-foosball-table/FOOS_GLUEUP.jpg",
+        "images/p9-foosball-table/FOOS_STAIN.jpg",
+        "images/p9-foosball-table/FOOS_FRAME.jpg",
+        "images/p9-foosball-table/FOOS_FIELD.jpg",
+        "images/p9-foosball-table/FOOS_CHUTE.jpg",
+        "images/p9-foosball-table/FOOS_PLAYERS.jpg",
+        "images/p9-foosball-table/FOOS_BARE.jpg",
+        "images/p9-foosball-table/FOOS_SCORE.jpg",
+        "images/p9-foosball-table/FOOS_CAD_3D.jpg",
+        "images/p9-foosball-table/FOOS_CAD_TOP.jpg",
+        "images/p9-foosball-table/FOOS_CAD_FRONT.jpg",
+        "images/p9-foosball-table/FOOS_DRAWING.jpg",
+        "images/p9-foosball-table/FOOS_WIRING.jpg"
+      ]
+    },
+    {
+      "num": "006",
+      "id": "p3-lissajous-darkroom-prints",
+      "title": "Lissajous Darkroom Prints",
+      "tags": "SOUND / PHYSICS / PHOTOGRAPHY",
+      "year": "2025",
+      "summary": "Two perpendicular waves draw a curve that disappears as soon as the sound stops. I exposed six songs onto photo paper with a laser so the shapes stayed.",
+      "thumbnail": "images/_thumbnails/p3-lissajous-darkroom-prints.jpg",
+      "video": {
+        "title": "Lissajous curves drawn by a laser",
+        "url": "https://www.youtube.com/watch?v=CmFj3oJCAFU"
+      },
+      "links": [],
+      "images": [
+        "images/p3-lissajous-darkroom-prints/DARKROOM_LASER.jpg",
+        "images/p3-lissajous-darkroom-prints/VIDEO_POSTER.jpg",
+        "images/p3-lissajous-darkroom-prints/RIG_DIAGRAM.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINT_01.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINT_02.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINT_03.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINT_04.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINT_05.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINT_06.jpg",
+        "images/p3-lissajous-darkroom-prints/PRINTS_TABLE.jpg"
+      ]
+    },
+    {
+      "num": "007",
+      "id": "p2-crt-tv-guitar",
+      "title": "CRT TV Guitar",
+      "tags": "OBJECT / MUSIC / EXPERIMENT",
+      "year": "2025",
+      "summary": "A CRT television, an Arduino, and a fretless ribbon neck cut from birch. Sound comes out of the TV speaker; the notes show up as bars on the screen.",
+      "thumbnail": "images/_thumbnails/p2-crt-tv-guitar.jpg",
+      "video": {
+        "title": "CRT TV Guitar being played",
+        "url": "https://www.youtube.com/watch?v=eO8PTNAAx4I"
+      },
+      "links": [],
+      "images": [
+        "images/p2-crt-tv-guitar/CRT_HERO.jpg",
+        "images/p2-crt-tv-guitar/VIDEO_POSTER.jpg",
+        "images/p2-crt-tv-guitar/FINAL_002.jpg",
+        "images/p2-crt-tv-guitar/WIRING_001.jpg",
+        "images/p2-crt-tv-guitar/RIG_BENCH.jpg",
+        "images/p2-crt-tv-guitar/NECK_001.jpg",
+        "images/p2-crt-tv-guitar/DIAG_001.jpg"
+      ]
+    },
+    {
+      "num": "008",
+      "id": "p7-pinball-restoration",
+      "title": "Pinball Restoration",
+      "tags": "RESTORATION / ELECTROMECHANICAL / 1990",
+      "year": "2026",
+      "summary": "Williams Whirlwind, January 1990. My dad brought this machine home but it was completely out of order.",
+      "thumbnail": "images/_thumbnails/p7-pinball-restoration.jpg",
+      "video": null,
+      "links": [],
+      "images": [
+        "images/p7-pinball-restoration/PIN_001.jpg",
+        "images/p7-pinball-restoration/PIN_002.jpg",
+        "images/p7-pinball-restoration/PIN_003.jpg",
+        "images/p7-pinball-restoration/PIN_004.jpg",
+        "images/p7-pinball-restoration/PIN_005.jpg",
+        "images/p7-pinball-restoration/PIN_006.jpg",
+        "images/p7-pinball-restoration/PIN_007.jpg"
+      ]
+    },
+    {
+      "num": "009",
+      "id": "p6-my-car",
+      "title": "My Car",
+      "tags": "MECHANICAL / MAINTENANCE / CURIOSITY",
+      "year": "2026",
+      "summary": "My relationship with my car is complicated. I own a 2008 BMW 135i convertible, six-speed manual. It is the one project that seems never ending. Every repair is a lesson in how something was designed, and how much of it I can do myself.",
+      "thumbnail": "images/_thumbnails/p6-my-car.jpg",
+      "video": null,
+      "links": [],
+      "images": [
+        "images/p6-my-car/CAR_HERO.jpg",
+        "images/p6-my-car/HEADLAMP_01.jpg",
+        "images/p6-my-car/ENGINE_BAY.jpg",
+        "images/p6-my-car/CLUSTER_001.jpg",
+        "images/p6-my-car/CAR_002.jpg",
+        "images/p6-my-car/CAR_CLEAN.jpg",
+        "images/p6-my-car/CAR_POV.jpg"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "path": "images/00-home/PORTRAIT_01.jpg",
+      "section": "00-home",
+      "label": "PORTRAIT_01.JPG",
+      "alt": "Portrait of Samantha Williamson",
+      "caption": null
+    },
+    {
+      "path": "images/p1-mandarin-learning-website/VIDEO_POSTER.jpg",
+      "section": "p1-mandarin-learning-website",
+      "label": null,
+      "alt": "",
+      "caption": null
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/CRT_HERO.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "CRT_HERO / VIDEO",
+      "alt": "CRT TV guitar being played",
+      "caption": null
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/VIDEO_POSTER.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "CRT_HERO / VIDEO",
+      "alt": "",
+      "caption": null
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/FINAL_002.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "FINAL_002.JPG",
+      "alt": "PATTERN ON THE TUBE",
+      "caption": "PATTERN ON THE TUBE"
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/WIRING_001.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "WIRING_001.JPG",
+      "alt": "BREADBOARD + RCA",
+      "caption": "BREADBOARD + RCA / Ribbon into the Arduino, Arduino into the modulator."
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/RIG_BENCH.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "RIG_BENCH.PNG",
+      "alt": "THE WHOLE RIG",
+      "caption": "THE WHOLE RIG / Breadboard, Arduino, and RF modulator wired up on the bench."
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/NECK_001.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "NECK_001.JPG",
+      "alt": "The varnished birch neck held up in the garage, small CRT TV beside it",
+      "caption": null
+    },
+    {
+      "path": "images/p2-crt-tv-guitar/DIAG_001.jpg",
+      "section": "p2-crt-tv-guitar",
+      "label": "DIAG_001.PNG",
+      "alt": "Wiring diagram: ribbon potentiometer into the Arduino, Arduino into the RF modulator, modulator into the TV",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/DARKROOM_LASER.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Green laser ring projected in the darkroom",
+      "caption": "THE DARKROOM, SAFELIGHT ON. Most of this project was sitting on the darkroom floor, waiting for an exposure to finish."
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/VIDEO_POSTER.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/RIG_DIAGRAM.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": "RIG_DIAGRAM.PNG",
+      "alt": "Diagram of the rig: sound into a tube, a balloon membrane with a mirror, a laser bouncing off it onto a screen",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINT_01.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Lissajous curve print 01",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINT_02.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Lissajous curve print 02",
+      "caption": "![](images/p3-lissajous-darkroom-prints/PRINT_03.jpg)"
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINT_03.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Lissajous curve print 03",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINT_04.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Lissajous curve print 04",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINT_05.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Lissajous curve print 05",
+      "caption": "![](images/p3-lissajous-darkroom-prints/PRINT_06.jpg)"
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINT_06.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": null,
+      "alt": "Lissajous curve print 06",
+      "caption": null
+    },
+    {
+      "path": "images/p3-lissajous-darkroom-prints/PRINTS_TABLE.jpg",
+      "section": "p3-lissajous-darkroom-prints",
+      "label": "PRINTS_TABLE.JPG",
+      "alt": "ALL SIX, DRYING",
+      "caption": "ALL SIX, DRYING"
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_HERO.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_HERO.JPG",
+      "alt": "Campers watching an FRC robot demonstration in the shop",
+      "caption": "45 CAMPERS / ONE WEEK"
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_FLYERS.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_FLYERS.JPG",
+      "alt": "Four Spartan Robotics students at the team booth holding LEGO Robotics Camp flyers",
+      "caption": null
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_001.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_001.JPG",
+      "alt": "THE ROOM, MID-SESSION",
+      "caption": "THE ROOM, MID-SESSION / Tables, kits, and tape lines on the floor."
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_002.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_002.JPG",
+      "alt": "CODING ON THE FLOOR",
+      "caption": "CODING ON THE FLOOR / Block code, one laptop per team, robot right next to it."
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_003.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_003.JPG",
+      "alt": "ROBOT TUG-OF-WAR",
+      "caption": "ROBOT TUG-OF-WAR / Two LEGO builds pulling against each other on one string."
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_004.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_004.JPG",
+      "alt": "RUN TEST, FLOOR COURSE",
+      "caption": "RUN TEST, FLOOR COURSE / Campers testing a run on the floor course."
+    },
+    {
+      "path": "images/p4-spartan-robotics-camp/CAMP_005.jpg",
+      "section": "p4-spartan-robotics-camp",
+      "label": "CAMP_005.JPG",
+      "alt": "TUG-OF-WAR, OUTSIDE",
+      "caption": "TUG-OF-WAR, OUTSIDE / Afternoon field games between build blocks."
+    },
+    {
+      "path": "images/p5-frc-contributions/WORLDS_TEAM.jpg",
+      "section": "p5-frc-contributions",
+      "label": "WORLDS_TEAM.JPG",
+      "alt": "Team 971 with the robot and awards at the FIRST World Championship",
+      "caption": "WORLD CHAMPIONSHIP / 2025. Worlds division finalist."
+    },
+    {
+      "path": "images/p5-frc-contributions/FIELD_MIC.jpg",
+      "section": "p5-frc-contributions",
+      "label": "FIELD_MIC.JPG",
+      "alt": "On the field at the World Championship with a microphone, presenting to the judges",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/PICKLIST_DATA.jpg",
+      "section": "p5-frc-contributions",
+      "label": "PICKLIST_DATA.PNG",
+      "alt": "Spreadsheet of scouting data for every team at CVR 2025, one row per team with average auto points, endgame, teleop by level, and net points",
+      "caption": "CVR 2025 / RAW SCOUTING DATA BEFORE SORTING. One row per team at the event: average auto points, endgame, teleop by level, and net points."
+    },
+    {
+      "path": "images/p5-frc-contributions/ASSY_V1.jpg",
+      "section": "p5-frc-contributions",
+      "label": "ASSY_V1.PNG",
+      "alt": "CAD_01",
+      "caption": "Funnel design, first pass. Too much compression and too wide an angle to index coral."
+    },
+    {
+      "path": "images/p5-frc-contributions/ASSY_V2.jpg",
+      "section": "p5-frc-contributions",
+      "label": "ASSY_V2.PNG",
+      "alt": "CAD_02",
+      "caption": "Narrower funnel with star wheels. Coral pickup improved, but algae would not stay in."
+    },
+    {
+      "path": "images/p5-frc-contributions/ASSY_FINAL.jpg",
+      "section": "p5-frc-contributions",
+      "label": "ASSY_FINAL.PNG",
+      "alt": "FINAL",
+      "caption": "Final version: star wheels removed, spike to center the coral, gearbox moved inside the structure."
+    },
+    {
+      "path": "images/p5-frc-contributions/ROUTER_SHOPSABRE.jpg",
+      "section": "p5-frc-contributions",
+      "label": "ROUTER_SHOPSABRE.PNG",
+      "alt": "ShopSabre PRO 408 CNC router with control station",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/INTAKE_PROTO.jpg",
+      "section": "p5-frc-contributions",
+      "label": "INTAKE_PROTO.JPG",
+      "alt": "Prototype intake built from plywood, chain, and compliance rollers on the shop bench",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/LAYOUT_BENCH.jpg",
+      "section": "p5-frc-contributions",
+      "label": "LAYOUT_BENCH.JPG",
+      "alt": "Marking plywood parts against the CAD on a laptop",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/LEGACY_ROBOTS.jpg",
+      "section": "p5-frc-contributions",
+      "label": "LEGACY_ROBOTS.JPG",
+      "alt": "Past Team 971 robots displayed on benches in the shop",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/FLOOR_DEBUG.jpg",
+      "section": "p5-frc-contributions",
+      "label": "FLOOR_DEBUG.JPG",
+      "alt": "Three team members on the floor working through something on a laptop",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/WEEK_ZERO_FIELD.jpg",
+      "section": "p5-frc-contributions",
+      "label": "WEEK_ZERO_FIELD.PNG",
+      "alt": "Full-scale FRC field built inside the vacant Kohl's, robots on the carpet during a Week Zero match",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/BANNERS.jpg",
+      "section": "p5-frc-contributions",
+      "label": "BANNERS.JPG",
+      "alt": "A line of blue FRC regional winner banners hung outside the shop for open house, with team members at the check-in table",
+      "caption": "SOME OF THE BANNERS / TEAM 971 SINCE 2004. Open house check-in."
+    },
+    {
+      "path": "images/p6-my-car/CAR_HERO.jpg",
+      "section": "p6-my-car",
+      "label": "CAR_HERO.JPG",
+      "alt": "BMW 1-series on a floor jack with tools and parts spread across the driveway",
+      "caption": "135i / SIX SPEED"
+    },
+    {
+      "path": "images/p6-my-car/HEADLAMP_01.jpg",
+      "section": "p6-my-car",
+      "label": "HEADLAMP_01.JPG",
+      "alt": "Wearing a headlamp outdoors in daylight",
+      "caption": null
+    },
+    {
+      "path": "images/p6-my-car/ENGINE_BAY.jpg",
+      "section": "p6-my-car",
+      "label": "ENGINE_BAY.JPG",
+      "alt": "Engine bay, covers on, strut brace visible",
+      "caption": null
+    },
+    {
+      "path": "images/p6-my-car/CLUSTER_001.jpg",
+      "section": "p6-my-car",
+      "label": "CLUSTER_001.JPG",
+      "alt": "SERVICE ENGINE SOON",
+      "caption": "SERVICE ENGINE SOON"
+    },
+    {
+      "path": "images/p6-my-car/CAR_002.jpg",
+      "section": "p6-my-car",
+      "label": "CAR_002.JPG",
+      "alt": "HOOD UP, DRIVEWAY",
+      "caption": "HOOD UP, DRIVEWAY / Hood up, before the alternator came out."
+    },
+    {
+      "path": "images/p6-my-car/CAR_CLEAN.jpg",
+      "section": "p6-my-car",
+      "label": "CAR_CLEAN.JPG",
+      "alt": "PARKED, TOP UP",
+      "caption": "PARKED, TOP UP"
+    },
+    {
+      "path": "images/p6-my-car/CAR_POV.jpg",
+      "section": "p6-my-car",
+      "label": "CAR_POV.JPG",
+      "alt": "DRIVER POV",
+      "caption": "DRIVER POV"
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_001.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_001.JPG",
+      "alt": "Restored Williams Whirlwind pinball machine lit up at night",
+      "caption": null
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_002.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_002.JPG",
+      "alt": "DISPLAY ALIVE",
+      "caption": "DISPLAY ALIVE"
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_003.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_003.JPG",
+      "alt": "HARNESS, LIT FROM BELOW",
+      "caption": "HARNESS, LIT FROM BELOW"
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_004.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_004.JPG",
+      "alt": "PLAYFIELD RAISED",
+      "caption": "PLAYFIELD RAISED"
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_005.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_005.JPG",
+      "alt": "BACKBOX BOARDS",
+      "caption": "BACKBOX BOARDS / System 11B: driver, CPU, and display boards."
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_006.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_006.JPG",
+      "alt": "POWER WIRING DIAGRAM",
+      "caption": "POWER WIRING DIAGRAM"
+    },
+    {
+      "path": "images/p7-pinball-restoration/PIN_007.jpg",
+      "section": "p7-pinball-restoration",
+      "label": "PIN_007.JPG",
+      "alt": "RUBBER PARTS LIST",
+      "caption": "RUBBER PARTS LIST / 45 pieces of rubber, each with a part number."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_HERO.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_HERO.JPG",
+      "alt": "Illuminated music float with organ pipes and toy soldiers at night",
+      "caption": "MUSIC TIME / Me, my friend, and Music Time, the float I drive every year in the parade."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_TRAIN.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_TRAIN.PNG",
+      "alt": "THE TRAIN, STEAM UP",
+      "caption": "THE TRAIN, STEAM UP / The train runs on its own drivetrain and puts real steam out the stack."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_CAROUSEL.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_CAROUSEL.PNG",
+      "alt": "CAROUSEL",
+      "caption": "CAROUSEL / One of the oldest floats in the barn."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_WHEEL.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_WHEEL.PNG",
+      "alt": "FERRIS WHEEL",
+      "caption": "FERRIS WHEEL / A ferris wheel that moves, a tree, and a whole lighting circuit on a towed chassis."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_TREE_NIGHT.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_TREE_NIGHT.JPG",
+      "alt": "POOH TREE, LIT",
+      "caption": "POOH TREE, LIT / Sculpted trunk, lit canopy, honey pot in the branches."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_TREE_DAY.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_TREE_DAY.JPG",
+      "alt": "SAME FLOAT, DAYLIGHT",
+      "caption": "SAME FLOAT, DAYLIGHT / Loaded on the trailer before the parade, lights off."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_ANIMATRONIC.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_ANIMATRONIC.JPG",
+      "alt": "ANIMATRONIC HEAD, BENCH",
+      "caption": "ANIMATRONIC HEAD, BENCH / Servo-driven eyes and neck on the bench, before it went under the costume."
+    },
+    {
+      "path": "images/p8-festival-of-lights-floats/FOL_SHRIEKERS.jpg",
+      "section": "p8-festival-of-lights-floats",
+      "label": "FOL_SHRIEKERS.JPG",
+      "alt": "ON THE ROUTE",
+      "caption": "ON THE ROUTE / Parade night, me and my favorite float."
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_HERO.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_HERO.PNG",
+      "alt": "Finished foosball table in the school shop, yellow and black players on the rods",
+      "caption": null
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_GLUEUP.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_GLUEUP.JPG",
+      "alt": "CABINET GLUE-UP",
+      "caption": "CABINET GLUE-UP"
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_STAIN.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_STAIN.JPG",
+      "alt": "STAINING PANELS",
+      "caption": "STAINING PANELS"
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_FRAME.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_FRAME.JPG",
+      "alt": "FRAME, SECOND COAT",
+      "caption": "FRAME, SECOND COAT"
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_FIELD.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_FIELD.PNG",
+      "alt": "PAINTED FIELD",
+      "caption": "PAINTED FIELD"
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_CHUTE.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_CHUTE.PNG",
+      "alt": "BALL RETURN CHUTE",
+      "caption": "BALL RETURN CHUTE / A ramp behind each goal sends the ball back out to the players."
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_PLAYERS.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_PLAYERS.PNG",
+      "alt": "3D PRINTED PLAYERS",
+      "caption": "3D PRINTED PLAYERS / Black and yellow, the school colors. 13 of them plus printed bushings."
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_BARE.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_BARE.PNG",
+      "alt": "BEFORE THE RODS WENT IN",
+      "caption": "BEFORE THE RODS WENT IN"
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_SCORE.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_SCORE.PNG",
+      "alt": "SCOREBOARD BENCH TEST",
+      "caption": "SCOREBOARD BENCH TEST / Seven-segment display driven off an Arduino, tested before it went in the cabinet."
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_CAD_3D.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_CAD_3D.PNG",
+      "alt": "3D VIEW",
+      "caption": null
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_CAD_TOP.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_CAD_TOP.PNG",
+      "alt": "TOP VIEW",
+      "caption": "![](images/p9-foosball-table/FOOS_CAD_FRONT.jpg)"
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_CAD_FRONT.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_CAD_FRONT.PNG",
+      "alt": "FRONT VIEW",
+      "caption": null
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_DRAWING.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_DRAWING.PNG",
+      "alt": "Dimensioned engineering drawing of the foosball table, four views",
+      "caption": null
+    },
+    {
+      "path": "images/p9-foosball-table/FOOS_WIRING.jpg",
+      "section": "p9-foosball-table",
+      "label": "FOOS_WIRING.PNG",
+      "alt": "Wiring diagram: Arduino driving a seven-segment display with light detectors on the goals",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/GRADUATION_MVHS.jpg",
+      "section": "99-about",
+      "label": "GRADUATION / MVHS",
+      "alt": "Graduation day in cap and gown, standing next to the BMW",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/FIRST_DENT_TWO_THUMBS_UP.jpg",
+      "section": "99-about",
+      "label": "FIRST DENT / TWO THUMBS UP",
+      "alt": "Kneeling next to a dented car door, giving two thumbs up",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/CO-PILOT_GOLDEN.jpg",
+      "section": "99-about",
+      "label": "CO-PILOT / GOLDEN",
+      "alt": "Goldendoodle on the couch with a laptop playing a show",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/SEA_CLIFFS_ROPE_CLIMB.jpg",
+      "section": "99-about",
+      "label": "SEA CLIFFS / ROPE CLIMB",
+      "alt": "Two people standing on sandstone cliffs above a rope line",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/IN_THE_PIT_TEAM_971.jpg",
+      "section": "99-about",
+      "label": "IN THE PIT / TEAM 971",
+      "alt": "In the pit in a 971 shirt and overalls, safety glasses on",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/EARLY_WORK_SUNGLASSES_ERA.jpg",
+      "section": "99-about",
+      "label": "EARLY WORK / SUNGLASSES ERA",
+      "alt": "Toddler in pink sunglasses and a lei holding two stuffed dogs",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/SAN_FRANCISCO_GOLDEN_HOUR.jpg",
+      "section": "99-about",
+      "label": "SAN FRANCISCO / GOLDEN HOUR",
+      "alt": "Portrait outdoors in late afternoon light",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/TOP_DOWN_DUSK_DRIVE.jpg",
+      "section": "99-about",
+      "label": "TOP DOWN / DUSK DRIVE",
+      "alt": "Driving the convertible at dusk with the top down",
+      "caption": null
+    },
+    {
+      "path": "images/99-about/FLOAT_LOAD-IN_FESTIVAL_OF_LIGHTS.jpg",
+      "section": "99-about",
+      "label": "FLOAT LOAD-IN / FESTIVAL OF LIGHTS",
+      "alt": "Sitting in a truck bed in front of a Winnie the Pooh float",
+      "caption": null
+    },
+    {
+      "path": "images/p5-frc-contributions/robots/R_01_2026.jpg",
+      "section": "p5-frc-contributions",
+      "label": "R_01_2026",
+      "alt": "Team 971 robot with clear polycarbonate superstructure",
+      "caption": "Robot, 2026"
+    },
+    {
+      "path": "images/p5-frc-contributions/robots/R_02_2025.jpg",
+      "section": "p5-frc-contributions",
+      "label": "R_02_2025",
+      "alt": "Team 971 robot with elevator and compliance-wheel intake",
+      "caption": "Robot, 2025"
+    },
+    {
+      "path": "images/p5-frc-contributions/robots/R_03_2024.jpg",
+      "section": "p5-frc-contributions",
+      "label": "R_03_2024",
+      "alt": "Team 971 robot, three-quarter view",
+      "caption": "Robot, 2024"
+    },
+    {
+      "path": "images/p5-frc-contributions/robots/R_04_2023.jpg",
+      "section": "p5-frc-contributions",
+      "label": "R_04_2023",
+      "alt": "Team 971 robot with articulated arm",
+      "caption": "Robot, 2023"
+    },
+    {
+      "path": "images/p5-frc-contributions/robots/R_05_2022.jpg",
+      "section": "p5-frc-contributions",
+      "label": "R_05_2022",
+      "alt": "Team 971 robot with dual intake arms",
+      "caption": "Robot, 2022"
+    },
+    {
+      "path": "images/_thumbnails/p2-crt-tv-guitar.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p3-lissajous-darkroom-prints.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p4-spartan-robotics-camp.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p5-frc-contributions.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p6-my-car.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p7-pinball-restoration.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p8-festival-of-lights-floats.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    },
+    {
+      "path": "images/_thumbnails/p9-foosball-table.jpg",
+      "section": "_thumbnails",
+      "label": "Work index thumbnail",
+      "alt": null,
+      "caption": null
+    }
+  ],
+  "full_text": "README.md"
+}
