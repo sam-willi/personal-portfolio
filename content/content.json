@@ -220,7 +220,6 @@
       "images": [
         "images/p2-crt-tv-guitar/CRT_HERO.jpg",
         "images/p2-crt-tv-guitar/VIDEO_POSTER.jpg",
-        "images/p2-crt-tv-guitar/FINAL_002.jpg",
         "images/p2-crt-tv-guitar/WIRING_001.jpg",
         "images/p2-crt-tv-guitar/RIG_BENCH.jpg",
         "images/p2-crt-tv-guitar/NECK_001.jpg",
@@ -276,13 +275,6 @@
       "label": "CRT_HERO / VIDEO",
       "alt": "",
       "caption": null
-    },
-    {
-      "path": "images/p2-crt-tv-guitar/FINAL_002.jpg",
-      "section": "p2-crt-tv-guitar",
-      "label": "FINAL_002.JPG",
-      "alt": "PATTERN ON THE TUBE",
-      "caption": "PATTERN ON THE TUBE"
     },
     {
       "path": "images/p2-crt-tv-guitar/WIRING_001.jpg",

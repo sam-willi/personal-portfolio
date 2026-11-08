@@ -501,11 +501,10 @@ A CRT television, an Arduino, and a fretless ribbon neck cut from birch. Sound c
 
 **RESULT.** The ribbon pot works like a fretless neck, so I can slide between notes and add vibrato. It plays more like an otamatone than a guitar. In the video I play "In My Life" by the Beatles. I couldn't decide what song to learn, and that's what my grandma suggested.
 
-### Contact sheet / build (3 frames)
+### Contact sheet / build (2 frames)
 
 | File | Image | Label | Caption |
 | --- | --- | --- | --- |
-| FINAL_002 | ![](images/p2-crt-tv-guitar/FINAL_002.jpg) | PATTERN ON THE TUBE | |
 | WIRING_001 | ![](images/p2-crt-tv-guitar/WIRING_001.jpg) | BREADBOARD + RCA | Ribbon into the Arduino, Arduino into the modulator. |
 | RIG_BENCH | ![](images/p2-crt-tv-guitar/RIG_BENCH.jpg) | THE WHOLE RIG | Breadboard, Arduino, and RF modulator wired up on the bench. |
 
