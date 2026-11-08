@@ -2,7 +2,7 @@
 
 Every image, link, video and piece of text from [sam-willi.studio](https://sam-willi.studio), pulled out of the bundled `index.html` so it can be edited and reused. Images are in [`images/`](images), one folder per page. The same content in structured form is in [`content.json`](content.json).
 
-Project order on the site: 001 FRC Contributions, 002 Mandarin Learning Website, 003 Spartan Robotics Camp, 004 Festival of Lights Floats, 005 Foosball Table, 006 Lissajous Darkroom Prints, 007 CRT TV Guitar, 008 Pinball Restoration, 009 My Car.
+Project order on the site: 001 FRC Contributions, 002 Mandarin Learning Website, 003 Spartan Robotics Camp, 004 Festival of Lights Floats, 005 Foosball Table, 006 Lissajous Darkroom Prints, 007 CRT TV Guitar, 008 Pinball Restoration.
 
 ## Links
 
@@ -47,7 +47,7 @@ I built a Mandarin learning website that's now part of my school's curriculum an
 EDTECH, PRODUCT DESIGN, PHYSICAL BUILDS, ROBOTICS, PHOTOGRAPHY, AND REPAIR.  
 LOS ANGELES, CA · USC IOVINE + YOUNG ACADEMY, CLASS OF 2030 · OPEN TO INTERNSHIPS
 
-### Selected work / 001 to 009
+### Selected work / 001 to 008
 
 | # | Project | Tags | Year | Thumbnail |
 | --- | --- | --- | --- | --- |
@@ -59,7 +59,6 @@ LOS ANGELES, CA · USC IOVINE + YOUNG ACADEMY, CLASS OF 2030 · OPEN TO INTERNSH
 | 006 | Lissajous Darkroom Prints | SOUND / PHYSICS / PHOTOGRAPHY | 2025 | [img](images/_thumbnails/p3-lissajous-darkroom-prints.jpg) |
 | 007 | CRT TV Guitar | OBJECT / MUSIC / EXPERIMENT | 2025 | [img](images/_thumbnails/p2-crt-tv-guitar.jpg) |
 | 008 | Pinball Restoration | RESTORATION / ELECTROMECHANICAL / 1990 | 2026 | [img](images/_thumbnails/p7-pinball-restoration.jpg) |
-| 009 | My Car | MECHANICAL / MAINTENANCE / CURIOSITY | 2026 | [img](images/_thumbnails/p6-my-car.jpg) |
 
 Footer: sam williamson · BUILT IN LOS ANGELES / CA
 
@@ -551,44 +550,6 @@ Williams Whirlwind, January 1990. My dad brought this machine home but it was co
 | PIN_005 | ![](images/p7-pinball-restoration/PIN_005.jpg) | BACKBOX BOARDS | System 11B: driver, CPU, and display boards. |
 | PIN_006 | ![](images/p7-pinball-restoration/PIN_006.jpg) | POWER WIRING DIAGRAM | |
 | PIN_007 | ![](images/p7-pinball-restoration/PIN_007.jpg) | RUBBER PARTS LIST | 45 pieces of rubber, each with a part number. |
-
----
-
-## 009 / My Car
-
-MECHANICAL · MAINTENANCE · CURIOSITY · 2026
-
-My relationship with my car is complicated. I own a 2008 BMW 135i convertible, six-speed manual. It is the one project that seems never ending. Every repair is a lesson in how something was designed, and how much of it I can do myself.
-
-![BMW 1-series on a floor jack with tools and parts spread across the driveway](images/p6-my-car/CAR_HERO.jpg)  
-*135i / SIX SPEED*
-
-### Service log / work I have done myself (6 entries)
-
-| # | Part | Note | Status |
-| --- | --- | --- | --- |
-| J_01 | Alternator | Charging system replaced end to end. | DONE |
-| J_02 | Serpentine belt | Routing and tension by hand. | DONE |
-| J_03 | Spark plugs | Full set, gapped and torqued. | DONE |
-| J_04 | Ignition coils | Replaced alongside the plugs. | DONE |
-| J_05 | A/C compressor | Swapped out the whole compressor. | DONE |
-| J_06 | Battery | It gave out right before I left for USC. | NEXT |
-
-**WHY I DO IT MYSELF.** I have a personal philosophy that I can do anything a professional can do, as long as I have enough desire and persistence. Rats ate the harness of my old Ford Edge and the dealership failed to find the issue before it was too late. Those trust issues are what pushed me to stop bringing my car to the dealership and to start fixing the issues myself.
-
-**NEXT JOB.** Above you can see most of the jobs I have done on this car. Right before I left for USC the battery finally gave out, so I will be investigating that when I come home, and hopefully bringing the car down for the spring semester.
-
-![Wearing a headlamp outdoors in daylight](images/p6-my-car/HEADLAMP_01.jpg)
-![Engine bay, covers on, strut brace visible](images/p6-my-car/ENGINE_BAY.jpg)
-
-### Roll / under the hood (4 frames)
-
-| File | Image | Label | Caption |
-| --- | --- | --- | --- |
-| CLUSTER_001 | ![](images/p6-my-car/CLUSTER_001.jpg) | SERVICE ENGINE SOON | |
-| CAR_002 | ![](images/p6-my-car/CAR_002.jpg) | HOOD UP, DRIVEWAY | Hood up, before the alternator came out. |
-| CAR_CLEAN | ![](images/p6-my-car/CAR_CLEAN.jpg) | PARKED, TOP UP | |
-| CAR_POV | ![](images/p6-my-car/CAR_POV.jpg) | DRIVER POV | |
 
 ---
 

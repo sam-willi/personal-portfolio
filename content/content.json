@@ -246,26 +246,6 @@
         "images/p7-pinball-restoration/PIN_006.jpg",
         "images/p7-pinball-restoration/PIN_007.jpg"
       ]
-    },
-    {
-      "num": "009",
-      "id": "p6-my-car",
-      "title": "My Car",
-      "tags": "MECHANICAL / MAINTENANCE / CURIOSITY",
-      "year": "2026",
-      "summary": "My relationship with my car is complicated. I own a 2008 BMW 135i convertible, six-speed manual. It is the one project that seems never ending. Every repair is a lesson in how something was designed, and how much of it I can do myself.",
-      "thumbnail": "images/_thumbnails/p6-my-car.jpg",
-      "video": null,
-      "links": [],
-      "images": [
-        "images/p6-my-car/CAR_HERO.jpg",
-        "images/p6-my-car/HEADLAMP_01.jpg",
-        "images/p6-my-car/ENGINE_BAY.jpg",
-        "images/p6-my-car/CLUSTER_001.jpg",
-        "images/p6-my-car/CAR_002.jpg",
-        "images/p6-my-car/CAR_CLEAN.jpg",
-        "images/p6-my-car/CAR_POV.jpg"
-      ]
     }
   ],
   "images": [
@@ -541,55 +521,6 @@
       "label": "BANNERS.JPG",
       "alt": "A line of blue FRC regional winner banners hung outside the shop for open house, with team members at the check-in table",
       "caption": "SOME OF THE BANNERS / TEAM 971 SINCE 2004. Open house check-in."
-    },
-    {
-      "path": "images/p6-my-car/CAR_HERO.jpg",
-      "section": "p6-my-car",
-      "label": "CAR_HERO.JPG",
-      "alt": "BMW 1-series on a floor jack with tools and parts spread across the driveway",
-      "caption": "135i / SIX SPEED"
-    },
-    {
-      "path": "images/p6-my-car/HEADLAMP_01.jpg",
-      "section": "p6-my-car",
-      "label": "HEADLAMP_01.JPG",
-      "alt": "Wearing a headlamp outdoors in daylight",
-      "caption": null
-    },
-    {
-      "path": "images/p6-my-car/ENGINE_BAY.jpg",
-      "section": "p6-my-car",
-      "label": "ENGINE_BAY.JPG",
-      "alt": "Engine bay, covers on, strut brace visible",
-      "caption": null
-    },
-    {
-      "path": "images/p6-my-car/CLUSTER_001.jpg",
-      "section": "p6-my-car",
-      "label": "CLUSTER_001.JPG",
-      "alt": "SERVICE ENGINE SOON",
-      "caption": "SERVICE ENGINE SOON"
-    },
-    {
-      "path": "images/p6-my-car/CAR_002.jpg",
-      "section": "p6-my-car",
-      "label": "CAR_002.JPG",
-      "alt": "HOOD UP, DRIVEWAY",
-      "caption": "HOOD UP, DRIVEWAY / Hood up, before the alternator came out."
-    },
-    {
-      "path": "images/p6-my-car/CAR_CLEAN.jpg",
-      "section": "p6-my-car",
-      "label": "CAR_CLEAN.JPG",
-      "alt": "PARKED, TOP UP",
-      "caption": "PARKED, TOP UP"
-    },
-    {
-      "path": "images/p6-my-car/CAR_POV.jpg",
-      "section": "p6-my-car",
-      "label": "CAR_POV.JPG",
-      "alt": "DRIVER POV",
-      "caption": "DRIVER POV"
     },
     {
       "path": "images/p7-pinball-restoration/PIN_001.jpg",
@@ -915,13 +846,6 @@
     },
     {
       "path": "images/_thumbnails/p5-frc-contributions.jpg",
-      "section": "_thumbnails",
-      "label": "Work index thumbnail",
-      "alt": null,
-      "caption": null
-    },
-    {
-      "path": "images/_thumbnails/p6-my-car.jpg",
       "section": "_thumbnails",
       "label": "Work index thumbnail",
       "alt": null,
