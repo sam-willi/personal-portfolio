@@ -8,7 +8,7 @@ Project order on the site: 001 FRC Contributions, 002 Mandarin Learning Website,
 
 | Where | URL |
 | --- | --- |
-| Email | mailto:samanthajwilliamson@gmail.com |
+| Email | mailto:samwilli@usc.edu |
 | Instagram | https://www.instagram.com/sam.willii/ |
 | LinkedIn | https://www.linkedin.com/in/sam-williamson-101650281/ |
 | Mandarin site walkthrough (YouTube) | https://www.youtube.com/watch?v=mZ0d6qkYpVg |
@@ -601,7 +601,7 @@ Facts scattered between the photos:
 
 **INTERESTS:** INDUSTRIAL DESIGN · AUTOMOTIVE · PHYSICAL PRODUCTS · ROBOTICS · EMERGING TECH · AI · ENTREPRENEURSHIP · HUMAN BEHAVIOR · INTERFACES · EVERYDAY THINGS
 
-**EMAIL:** [samanthajwilliamson@gmail.com](mailto:samanthajwilliamson@gmail.com)  
+**EMAIL:** [samwilli@usc.edu](mailto:samwilli@usc.edu)  
 **ELSEWHERE:** [Instagram](https://www.instagram.com/sam.willii/) · [LinkedIn](https://www.linkedin.com/in/sam-williamson-101650281/)
 
 ---
